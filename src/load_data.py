@@ -15,7 +15,7 @@ import psycopg2
 # TODO: Update these values with your actual database credentials
 DATABASE_CONFIG = {
     'username': 'mqtho',
-    'password': 'Thomas0911mqtho', 
+    'password': '', 
     'host': 'localhost',
     'port': '5432',
     'database': 'airlife_db'
